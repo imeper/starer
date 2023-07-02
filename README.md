@@ -1,1 +1,3 @@
 # starer
+
+react and vite
